@@ -1,4 +1,4 @@
-# Lottery Predictor
+# Lottery Predicting LSTM
 
 I once tried predicting the lottery number by training LSTM.
 
